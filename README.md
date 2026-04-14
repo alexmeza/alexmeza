@@ -3,6 +3,8 @@
 <!--
 **alexmeza/alexmeza**
 
+
+-->
 Passionate about the lifecycle of data—from extraction to insight. I build custom tools to scrape high-volume data, filter out the noise, and analyze the patterns that matter.
 
 Currently exploring:
@@ -14,4 +16,3 @@ Currently exploring:
 * **Extraction:** Web Scraping (Selenium, BeautifulSoup)
 * **Processing:** Data Filtering & Cleaning (Pandas)
 * **Analysis:** Casino Table Game Logic & Probability Modeling
--->

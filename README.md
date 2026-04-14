@@ -1,16 +1,17 @@
 ## Hi there 👋
 
 <!--
-**alexmeza/alexmeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alexmeza/alexmeza**
 
-Here are some ideas to get you started:
+Passionate about the lifecycle of data—from extraction to insight. I build custom tools to scrape high-volume data, filter out the noise, and analyze the patterns that matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Currently exploring:
+- Advanced web automation and scraping.
+- Data cleaning and optimization.
+- Statistical analysis of table games and probability modeling.
+
+### 🛠 Technical Focus
+* **Extraction:** Web Scraping (Selenium, BeautifulSoup)
+* **Processing:** Data Filtering & Cleaning (Pandas)
+* **Analysis:** Casino Table Game Logic & Probability Modeling
 -->
